@@ -8,8 +8,9 @@ The Web Admin Panel was built using expo, react-native. It is connected to a Gra
 
 ### Screenshots
 
-![User Management Tab](https://github.com/vbedardl/w_frontend_web/blob/master/doc/UserManagement.gif?raw=true)
-![Package Management Tab](https://github.com/vbedardl/w_frontend_web/blob/master/doc/W_Package_Management.gif?raw=true)
+![Login Page](https://github.com/vbedardl/w_frontend_mobile/blob/master/doc/w_login.jpg?raw=true)
+![Package History Page](https://github.com/vbedardl/w_frontend_mobile/blob/master/doc/w_package_history.jpg?raw=true)
+![USer Settings Page](https://github.com/vbedardl/w_frontend_mobile/blob/master/doc/w_user_settings.jpg?raw=true)
 
 ## Getting Started
 
